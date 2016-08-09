@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-08-07T17:54:07.846Z</updated>
+  <updated>2016-08-09T10:10:57.734Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,39 +16,43 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2016/08/07/hello-world/"/>
-    <id>http://yoursite.com/2016/08/07/hello-world/</id>
-    <published>2016-08-07T15:52:04.102Z</published>
-    <updated>2016-08-07T17:54:07.846Z</updated>
+    <title>记一次不愉快的 12306 退票退款经历</title>
+    <link href="http://yoursite.com/2016/08/09/%E8%AE%B0%E4%B8%80%E6%AC%A1%E4%B8%8D%E6%84%89%E5%BF%AB%E7%9A%84%2012306%20%E9%80%80%E7%A5%A8%E9%80%80%E6%AC%BE%E7%BB%8F%E5%8E%86/"/>
+    <id>http://yoursite.com/2016/08/09/记一次不愉快的 12306 退票退款经历/</id>
+    <published>2016-08-09T08:31:29.000Z</published>
+    <updated>2016-08-09T10:10:57.734Z</updated>
     
-    <content type="html"><![CDATA[<p>#听说这样是大标题</p>
-<p>##听说这样会变小</p>
-<blockquote>
-<p>这样就是引用句子吗？</p>
-<ul>
-<li>1</li>
-<li>2</li>
-<li>3<br>上面这些事无序列表？<br>这样可以插入链接？<br><a href="www.baidu.com">百度</a><br>这样可以插入图片？<br><img src="http://photo.weibo.com/5849512060/albums/detail/album_id/3938739289205237" alt="图片"></li>
-<li>这样是粗体 <em> </em> 这是斜体？<br>| 报个   | 世界经济 | 经济技术解决 |<br>| —— | :——: | ———–: |<br>| 妙手空 | hhhhhhhh | jjjjjjjjjjj  |</li>
-</ul>
+    <content type="html"><![CDATA[<blockquote class="blockquote-center"><p>博主曾经在12306官方APP买了一张火车票，但是这辆车因故停运了，<em>12306</em> 短信通知博主在规定时间之前进行退票退款手续，博主也在规定时间内把票给退了，但是过了一个多月了，钱还是没有退，于是就有了下面这次奇葩的经历。</p>
 </blockquote>
-<hr>
+<p><img src="http://ww3.sinaimg.cn/large/006nRXiIgw1f6nl77mwsyj30qp044tao.jpg" alt="12306客服服务中心"><br><a id="more"></a><br>首先不得不吐槽一下<em>12306</em>的寻求解决问题的方法，真的少之又少，在互联网如此发达的今天，他们居然除了打电话就没有其他途径了，真的反人类，进入这个网站似乎进入了原始社会。你们就不能增加点途径吗？比如微信客服，QQ客服……</p>
+<p>我找到了一个客服邮箱，于是我就发了邮件告知我现在所处的情况，退了票了但是钱还没有给我退，然后他们给我发了一个信息表，叫我填写相关信息，我当时没多想，就把信息填上去再发了邮件过去，谁知道这才是故事的开始，后来这个邮箱的客服各种找借口，说什么会在15个工作日会把钱退到我卡里，于是我回了她一封邮件，这都差不多一个月了。</p>
+<p>然后好戏上场了，说 经查询，你并没有退票。</p>
+<p><img src="http://ww1.sinaimg.cn/large/006nRXiIgw1f6nnho3gjzj308b06474l.jpg" alt="douwo"></p>
+<p>叫我有什么疑问，请拨打<em>12306</em>，你看看，开始推卸责任了。</p>
+<p>我就没多想就拨打了12306，可是打了整整两天，不是线路忙就是叫我下载广州铁路APP，于是我给他回了封邮件，怎么也打不通12306，请你告诉我该怎么打通这个电话。</p>
+<p>于是出现了循坏，<br><img src="http://ww1.sinaimg.cn/large/006nRXiIgw1f6nm73rjg1j30e5034glr.jpg" alt="循坏"></p>
+<p>大姐，我不是给你一个信息表了吗，里面什么信息没有，你好意思再问我要订票时间？WTF</p>
+<p><img src="http://ww3.sinaimg.cn/large/006nRXiIgw1f6nniwz4chj3085064749.jpg" alt="wtf"></p>
+<p>后来，我打通了<em>12306</em>，跟他们说明了情况，她居然给我的回答是，这个东西已经有人在处理了，我不能处理了，WTF，邮件叫我打当地客服电话，当地客服跟我说我不能处理，你们是在逗我玩吗？真是天下之大，无奇不有，我一口就给他驳回去了，你有没有搞错呀，邮件叫我打当地客服电话，你跟我说你不能处理？最后这个妹子迫于无奈，说会帮我登记一下。</p>
+<p>我是在2016年8月6号打电话过去的，今天2016年8月9号，我再次打电话过去的时候，一个客服妹子接的电话，我问了她一下，她说请稍等，正在查询，结果我足足等了11分钟，她结果给我来了一句 还没有结果，北京那边还没有回复，妹子，你不会操作咱能不装嘛？不会查就居然让我等了十多分钟，你总以为电话费不要钱？</p>
+<p>还有在邮件需要银行订单号的时候，他们给了我一个误导，说什么银行订单号可以致电银行查询，客服，你们不熟悉业务，你就说你不知道就行了，干嘛要误导，你可知道，我打了中国建设银行的客服，他们给了我一个单号，你们又说通过这个单号查询不到任何信息，你们可知道我最后是通过支付宝客服查询到你们所需要的所谓银行订单号的？<br><img src="http://ww4.sinaimg.cn/large/006nRXiIgw1f6nmpz3qraj30do03wt99.jpg" alt="不懂装懂"></p>
+<p>这张票虽然值不了多少钱，但是既然我没有坐到车，也按照规定把票给你们退回去了，我有权利把钱要回来，没想到在把钱要回来的时候，遇到了这么多奇葩的事情。而且，到目前为止，你们还是没有把钱给我退回来，今天是2016年8月9号，也是所谓的七夕节。<br><img src="http://ww2.sinaimg.cn/large/006nRXiIgw1f6nmxwgnpoj30dw05nq3y.jpg" alt="七夕"></p>
+<p>从这件事情可以看出，12306，一个全国性的服务平台，却没有把服务这一块做好，服务的渠道少之又少，而且你要找到客服的解决问题的话，简直比上天还要难，如果你打12306的话，每个电话至少要花上10分钟才能找到客服，找到客服了，他们也不一定帮你们解决问题，活在体制里的他们，已经麻木了，遇到问题不是帮忙解决问题，而是你推给我我推给你，推卸责任，不处理问题，而这些都是最为致命，如果问题像个雪球一样被他们抛来抛去的话，问题永远也解决不了，我第一封邮件是在2016年8月2号发给他们的，现在问题一点进展都没有。</p>
+<p>还有一点就是信息永远是不同步的，邮件的客服是不看邮件的，信息需要不停的问我多次，而且问完信息后，他们是不帮你解决问题的，他们会说有事请致电12306。当你打12306的时候，他们也是解决不了什么问题的，他们会说反馈，然后就没有然后了。</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;#听说这样是大标题&lt;/p&gt;
-&lt;p&gt;##听说这样会变小&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;这样就是引用句子吗？&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;1&lt;/li&gt;
-&lt;li&gt;2&lt;/li&gt;
-&lt;li&gt;3&lt;br&gt;上面这些事无序列表？&lt;br&gt;这样可以插入链接？&lt;br&gt;&lt;a href=&quot;www
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;p&gt;博主曾经在12306官方APP买了一张火车票，但是这辆车因故停运了，&lt;em&gt;12306&lt;/em&gt; 短信通知博主在规定时间之前进行退票退款手续，博主也在规定时间内把票给退了，但是过了一个多月了，钱还是没有退，于是就有了下面这次奇葩的经历。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;http://ww3.sinaimg.cn/large/006nRXiIgw1f6nl77mwsyj30qp044tao.jpg&quot; alt=&quot;12306客服服务中心&quot;&gt;&lt;br&gt;
     
     </summary>
     
+      <category term="吐槽" scheme="http://yoursite.com/categories/%E5%90%90%E6%A7%BD/"/>
+    
+    
+      <category term="吐槽" scheme="http://yoursite.com/tags/%E5%90%90%E6%A7%BD/"/>
     
   </entry>
   
