@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://idisreg.cn/"/>
-  <updated>2016-08-29T15:18:49.285Z</updated>
+  <updated>2016-09-11T10:56:06.087Z</updated>
   <id>http://idisreg.cn/</id>
   
   <author>
@@ -14,6 +14,55 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>arukas.io免费搭建个人私有科学上网方式（最简单的方法）</title>
+    <link href="http://idisreg.cn/2016/09/11/the-easiest-way-to-build-your-own-ss-account/"/>
+    <id>http://idisreg.cn/2016/09/11/the-easiest-way-to-build-your-own-ss-account/</id>
+    <published>2016-09-11T09:14:57.000Z</published>
+    <updated>2016-09-11T10:56:06.087Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote class="blockquote-center"><p>自从发现小飞机，就可以常常到墙外的世界看看，原来cross GWF也可以这么简单。不过要使用小飞机到外面看看，首先你要有一个账号，这是很坑爹的。</p>
+</blockquote>
+<a id="more"></a>
+<p>之前论坛里面有很多热心的小伙伴分享自己花钱建的小飞机账号，这种分享精神是很值得赞扬的，我为你们点个赞。可是论坛这么多人，分享出来很好，但是寿命都不是很长，用不了几天就无法使用了。所以有一个自己的账号就显得很很很重要啦。所以下面就教大家如何用最简单的方法建一个属于自己的小飞机账号。</p>
+<p>好了，废话不多说。下面开始今天的内容。</p>
+<p>先简单说一下，可能有的朋友知道了，可以跳过。</p>
+<blockquote>
+<p>arukas.io 是日本搞的一个Docker服务。与国内的灵雀云，时速云差不多。<br>目前处于测试阶段可以免费使用。最多可创建10个应用。</p>
+</blockquote>
+<p>官网地址点这里<a href="https://arukas.io" target="_blank" rel="external">arukas.io官网</a><br>注册地址点这里<a href="https://app.arukas.io/sign_up/" target="_blank" rel="external">arukas.io注册</a></p>
+<p>填写用户名，邮箱，密码，点击注册，系统会发你一份激活账号邮件，点击邮件的激活链接，到这里你就有了自己的一个arukas.io账号。</p>
+<p>PS:听说QQ邮箱收不到邮件，大家可以试试，反正我是用Gmail注册的，当然大家也可以用其他邮箱注册，如何大家有GitHub账号，可以直接用Github账号登陆，大家都可以试试哈。</p>
+<p>登陆进去。</p>
+<p>点击页面上的Create a new application创建一个新的应用。</p>
+<p>在Image后面的方框填上 lowid/ss-with-net-speeder:latest<br>在Memory选择          512M<br>在Port后面的方框填上  1111<br>0.在CMD后面的方框填上   ssserver -p 1111 -k 666666 -m aes-256-cfb</p>
+<p>这里解析一下上面的0.这一点  -p后面的是端口 现在你看的是 1111 ，这个端口与Port后面的方框填的内容一样，如何你修改，记得保持两者一致。<br>-k后面是小飞机的密码，你现在看到的是666666，当然这个也是可以修改。 -m后面是加密方式，你现在看到的是aes-256-cfb，当然这个你也是修改的啦。</p>
+<p>上面的都填完了就可以点击Create application了。下面来一张全景图。<br><img src="http://ww4.sinaimg.cn/large/006nRXiIgw1f7psqevlotj30si0c9jst.jpg" alt="图片"></p>
+<p>到此就算完成了，回到首页，点击那个类似播放键的键启动这个应用就可以了。</p>
+<p>点击你刚刚创建的应用，我们来说说账号的东西，看图哈。<br><img src="http://ww2.sinaimg.cn/large/006nRXiIgw1f7pt3kscy6j30td0bptcn.jpg" alt="tupian"></p>
+<p>这样你就可以到墙外的世界看了。</p>
+<p>这里啰嗦几句： 1.你在启动这个应用时可能遇到Deploying，这个倒是没所谓，就是再部署的意思，大家等一下就好，或者可以在创建一个应用，不是有十个应用嘛，哈哈。</p>
+<p>2.如果你一切都按照要求做了，还是无法访问谷歌等国外的网站，你可以暂停再启动，不过这个操作你的服务器ip和端口都会改变，记得要看了在客户端修改过来在连接即可。</p>
+<p>你还别说，速度还是可以的，我这里2M宽带，访问YouTube看视频都是很流畅的。<br><img src="http://ww4.sinaimg.cn/large/006nRXiIgw1f7pte0hfigj310e0de0ws.jpg" alt="ceshi"></p>
+<p>最后附上SS的下载地址</p>
+<p>手机版，版本号3.0.8，应该是最新版  链接: <a href="http://pan.baidu.com/s/1c3MnOM" target="_blank" rel="external">http://pan.baidu.com/s/1c3MnOM</a> 密码: jcra</p>
+<p>电脑Windows版，版本号2.5.2，应该不是最新版 链接: <a href="http://pan.baidu.com/s/1gf9HETH" target="_blank" rel="external">http://pan.baidu.com/s/1gf9HETH</a> 密码: cyd8</p>
+<p>链接挂了留言叫补即可。欢迎留言讨论。</p>
+<p>嗯，就这样吧。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;p&gt;自从发现小飞机，就可以常常到墙外的世界看看，原来cross GWF也可以这么简单。不过要使用小飞机到外面看看，首先你要有一个账号，这是很坑爹的。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="发现" scheme="http://idisreg.cn/tags/%E5%8F%91%E7%8E%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>有关QQ微信的一些奇淫技巧，用于装逼就最好了</title>
